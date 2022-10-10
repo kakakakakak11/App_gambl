@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PM Winner</string>
+
+
+
+    <string name="brazil_met_id">475382421192611</string>
+    <string name="brazil_met_token">SvMtmGRknsPfNbBwUbCmBPYWkbk</string>
+    <string name="brazil_ones">877fb1e0-f141-4fca-ab48-b392bd0b8c32</string>
+    <string name="brazil_apps">Zr5A6uqted43SdupYxQS89</string>
+
+    <string name="brazil_adid">brazil_adid=</string>
+    <string name="brazil_apsf">brazil_apsf=</string>
+    <string name="brazil_deep">brazil_deep=</string>
+    <string name="brazil_campg">brazil_campg=</string>
+    <string name="brazil_media">brazil_media=</string>
+    <string name="brazil_afCh">brazil_afCh=</string>
+    <string name="brazil_adb">brazil_adb=</string>
+    <string name="brazil_tmz">brazil_tmz=</string>
+    <string name="brazil_bat">brazil_bat=</string>
+    <string name="brazil_afst">brazil_afst=</string>
+    <string name="brazil_emulator">brazil_emulator=</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "588900836853",
+    "project_id": "pm-winner-d7a30",
+    "storage_bucket": "pm-winner-d7a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588900836853:android:325c810c220638e606acbc",
+        "android_client_info": {
+          "package_name": "com.king.candycrushsodasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588900836853-2o8s350dh2cjc0s4c840jctji88kpu1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.king.candycrushsodasa",
+            "certificate_hash": "83dd0780030e6c26cbaa3e9bbe691812882eb56b"
+          }
+        },
+        {
+          "client_id": "588900836853-jlhrq99dommaa45ek9halk7a0qp8cg8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqHcD8NJsnkKoIJrY9FO9tymhyNnKpJaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588900836853-jlhrq99dommaa45ek9halk7a0qp8cg8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
